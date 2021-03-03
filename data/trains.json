@@ -4,7 +4,7 @@
 			"name": "Systems Analysis and Design",
 			"stops": [
 				{
-					"teacher": "Doiron",
+					"station": "Doiron",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
@@ -15,7 +15,7 @@
 			"name": "Database Management",
 			"stops": [
 				{
-					"teacher": "Koster",
+					"station": "Koster",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
@@ -26,7 +26,7 @@
 			"name": "Intro to Networking",
 			"stops": [
 				{
-					"teacher": "Austin",
+					"station": "Austin",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
@@ -37,7 +37,7 @@
 			"name": "Intro to Programming",
 			"stops": [
 				{
-					"teacher": "Addo",
+					"station": "Addo",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
