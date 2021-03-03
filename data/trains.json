@@ -1,84 +1,46 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Systems Analysis and Design",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"teacher": "Doiron",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
-				},
-				{
-					"station": "Pine",
-					"status": "ON-TIME",
-					"arrival": "1:00pm",
-					"departure": "1:10pm"
 				}
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Database Management",
 			"stops": [
 				{
-					"station": "Pine",
+					"teacher": "Koster",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
-				},
-				{
-					"station": "Sycamore",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:00pm",
-					"delayedDeparture": "1:17pm"
 				}
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Intro to Networking",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"teacher": "Austin",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
-				},
-				{
-					"station": "Cypress",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
 				}
 			]
 		},
 		{
-			"name": "Golden Arrow",
+			"name": "Intro to Programming",
 			"stops": [
 				{
-					"station": "Cypress",
+					"teacher": "Addo",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
-				},
-				{
-					"station": "Pine",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
-				},
-				{
-					"station": "Hickory",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
 				}
 			]
 		}
