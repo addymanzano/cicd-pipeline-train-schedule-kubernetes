@@ -4,10 +4,16 @@
 			"name": "Systems Analysis and Design",
 			"stops": [
 				{
-					"station": "Doiron",
+					"station": "Sycamore",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
+				},
+				{
+					"station": "Pine",
+					"status": "ON-TIME",
+					"arrival": "1:00pm",
+					"departure": "1:10pm"
 				}
 			]
 		},
@@ -15,10 +21,18 @@
 			"name": "Database Management",
 			"stops": [
 				{
-					"station": "Koster",
+					"station": "Pine",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
+				},
+				{
+					"station": "Sycamore",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:00pm",
+					"delayedDeparture": "1:17pm"
 				}
 			]
 		},
@@ -26,10 +40,18 @@
 			"name": "Intro to Networking",
 			"stops": [
 				{
-					"station": "Austin",
+					"station": "Sycamore",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
+				},
+				{
+					"station": "Cypress",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
 				}
 			]
 		},
@@ -37,10 +59,26 @@
 			"name": "Intro to Programming",
 			"stops": [
 				{
-					"station": "Addo",
+					"station": "Cypress",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
+				},
+				{
+					"station": "Pine",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				},
+				{
+					"station": "Hickory",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
 				}
 			]
 		}
