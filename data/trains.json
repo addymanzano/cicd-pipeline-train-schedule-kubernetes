@@ -1,84 +1,46 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Systems Analysis and Design",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Doiron",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
-				},
-				{
-					"station": "Pine",
-					"status": "ON-TIME",
-					"arrival": "1:00pm",
-					"departure": "1:10pm"
+					"arrival": "7:00pm",
+					"departure": "9:00pm"
 				}
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Database Management",
 			"stops": [
 				{
-					"station": "Pine",
+					"station": "Koster",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
-					"departure": "12:10pm"
-				},
-				{
-					"station": "Sycamore",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:00pm",
-					"delayedDeparture": "1:17pm"
+					"departure": "2:00pm"
 				}
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Intro to Programming",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Addo",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
-				},
-				{
-					"station": "Cypress",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
+					"arrival": "4:00pm",
+					"departure": "6:00pm"
 				}
 			]
 		},
 		{
-			"name": "Golden Arrow",
+			"name": "Intro to Networking",
 			"stops": [
 				{
-					"station": "Cypress",
+					"station": "Austin",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
-				},
-				{
-					"station": "Pine",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
-				},
-				{
-					"station": "Hickory",
-					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
+					"arrival": "9:00am",
+					"departure": "11:00am"
 				}
 			]
 		}
