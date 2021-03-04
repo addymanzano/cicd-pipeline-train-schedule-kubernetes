@@ -6,8 +6,8 @@
 				{
 					"station": "Doiron",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "7:00pm",
+					"departure": "9:00pm"
 				}
 			]
 		},
@@ -18,7 +18,7 @@
 					"station": "Koster",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"departure": "2:00pm"
 				}
 			]
 		},
@@ -28,8 +28,8 @@
 				{
 					"station": "Addo",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "4:00pm",
+					"departure": "6:00pm"
 				}
 			]
 		},
@@ -39,8 +39,8 @@
 				{
 					"station": "Austin",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "9:00am",
+					"departure": "11:00am"
 				}
 			]
 		}
