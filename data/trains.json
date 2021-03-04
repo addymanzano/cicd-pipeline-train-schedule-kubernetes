@@ -15,7 +15,7 @@
 			"name": "Database Management",
 			"stops": [
 				{
-					"station": "Koster",
+					"station": "Doiron",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "2:00pm"
