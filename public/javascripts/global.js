@@ -24,7 +24,7 @@ function populateTrains() {
 function showTrainInfo(event) {
 	event.preventDefault();
 	var train = trains[$(this).attr('rel')];
-	var tableContent = '<table class="table"><tr><th>Station</th></tr>';
+	var tableContent = '<table class="table"><tr><th>Teacher</th></tr>';
 	$.each(train.stops, function(index){
       tableContent += '<tr>';
       tableContent += '<td><strong>' + this.station + '</strong></td>';
